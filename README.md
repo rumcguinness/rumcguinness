@@ -11,7 +11,7 @@ Lately that means building the tools too, not just the strategy.
 Product tooling that compresses execution. PRD generators, prioritisation frameworks, stakeholder update systems. The boring 
 stuff that actually gets used.
 
-Music making tools. Polyrhythm generators, digital oscillators and effects, Ableton extension. The cool stuff that's fun to do and purely for my specific needs.
+Music making tools. Polyrhythm generators, digital oscillators and effects and Ableton extensions. The cool stuff that's fun to do and purely for my specific needs.
 
 ## How I work
 
